@@ -1,2 +1,2 @@
 # HackerRank_challenges
-Practicing with hacker rank
+Contains all the progress and practice using hackerRank challenges
